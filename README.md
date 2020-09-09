@@ -1,0 +1,2 @@
+# sc-code
+Scala, algorithms
